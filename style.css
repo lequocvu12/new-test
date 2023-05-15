@@ -1,0 +1,17 @@
+.header {
+    background-color: #9575CD;
+    color: #fff;
+}
+
+.body {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.body-child {
+    margin-left: 2rem;
+}
+
+.my_footer {
+    background-color: #D1C4E9;
+}
